@@ -1,6 +1,5 @@
 # Motor Vehicle Collision
-
-We created a construction site processing, organization, and visualization platform using JavaScript, Python and HTML/CSS that provides image aggregation, localization capabilities to construction management for auditing and regulation purposes.
+Created a web app which help us to analyse and see the results of the data set for the Motor vehicle accidents in New York City. The data set contained 1million rows and 25 colunms which taught me how to filter the data for optimum use.
 
 ## Getting Started
 
